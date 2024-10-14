@@ -1,11 +1,10 @@
-# Welcome to My Profile
+Hi, I'm **Andrei Simon**, a 2nd-year BSIT student from the Philippines!
 
-Hi, I'm [Your Name]!
+I like working with the Linux kernel, customizing Neovim with Lua, and using Python and Selenium for fun projects.
 
-This is my personal GitHub space where I share my open-source projects and ideas.
+- 🌱 Currently learning: Linux Kernel
+- 🎮 Hobbies: Exploring Linux, configuring Neovim, penetration testing, scripting, and automating things
 
-- 🌱 Currently learning: Linux Kernel Development
-- 🔭 Working on: A Fiverr-like Web App
-- 💬 Ask me about: React, Docker, Linux, and More!
-
-Check out my pinned repositories for some cool projects I've been working on!
+---
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,terraform,aws,docker,kubernetes,firebase,lua,nodejs,pug,express,ts,react,materialui,sass,redux,graphql,apollo,git,postman,java,jest,jenkins,python,selenium,redis,mysql,prisma,sequelize,mongodb,dynamodb,c,neovim,vim,ps,pr)](https://skillicons.dev)
