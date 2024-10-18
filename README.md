@@ -34,7 +34,7 @@ I like to play with the Linux kernel and customize Neovim with Lua
 ![Firebase](https://img.shields.io/badge/firestore-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Firebase](https://img.shields.io/badge/FirebaseRealtimeDatabase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/Firebase%20Realtime%20Database-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ---
 
