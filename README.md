@@ -1,6 +1,6 @@
 Hi, I'm **Andrei Simon**, a 2nd-year BSIT student from the Philippines!
 
-I like working with the Linux kernel, customizing Neovim with Lua, and using Selenium for fun projects.
+I like to play with the Linux kernel and customize Neovim with Lua
 
 - 🎮 Hobbies: Exploring 🐧 Kernel, configuring Neovim, penetration testing, scripting, and automating things
 
