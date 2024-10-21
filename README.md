@@ -52,6 +52,7 @@ I like to play with the Linux kernel and customize Neovim with Lua
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
@@ -64,7 +65,7 @@ I like to play with the Linux kernel and customize Neovim with Lua
 ---
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Meta Graph API](https://img.shields.io/badge/Meta%20Graph%20API-blue?style=for-the-badge&logo=meta&logoColor=white)
+![Meta Graph API](https://img.shields.io/badge/Meta%20Send%20API-blue?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
